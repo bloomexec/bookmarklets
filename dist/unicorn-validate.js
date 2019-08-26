@@ -1,0 +1,1 @@
+javascript:(function()%7B%22use%20strict%22%3Blocation%3D%22https%3A%2F%2Fvalidator.w3.org%2Funicorn%2Fcheck%3F%26ucn_task%3Dconformance%26ucn_uri%3D%22%2BencodeURIComponent(location)%3B%7D)()

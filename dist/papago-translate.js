@@ -1,0 +1,1 @@
+javascript:(function()%7B%22use%20strict%22%3Blocation%3D%22https%3A%2F%2Fpapago.naver.net%2Fwebsite%3Flocale%3Dko%26source%3Dauto%26target%3Dko%26url%3D%22%2BencodeURIComponent(location)%3B%7D)()

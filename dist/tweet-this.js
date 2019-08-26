@@ -1,0 +1,1 @@
+javascript:(function()%7B%22use%20strict%22%3Bwindow.open(%22https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Furl%3D%22%2BencodeURIComponent(location)%2B%22%26text%3D%22%2BencodeURIComponent(document.title)%2C%22_blank%22%2C%22width%3D552%2Cheight%3D450%2Cmenubar%3Dno%2Ctoolbar%3Dno%22)%3B%7D)()
